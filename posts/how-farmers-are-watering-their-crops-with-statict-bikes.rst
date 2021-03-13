@@ -1,7 +1,7 @@
 .. title: How farmers are watering their crops with statict bikes
 .. slug: how-farmers-are-watering-their-crops-with-statict-bikes
 .. date: 2021-03-12 21:12:29 UTC-06:00
-.. tags: 
+.. tags: farming, hunger, water
 .. category: 
 .. link: 
 .. description: 

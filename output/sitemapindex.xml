@@ -6,15 +6,27 @@
     xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <sitemap>
+  <loc>https://excellentcause.org/categories/farming.xml</loc>
+  <lastmod>2021-03-13T03:42:00Z</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>https://excellentcause.org/categories/hunger.xml</loc>
+  <lastmod>2021-03-13T03:42:00Z</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>https://excellentcause.org/categories/water.xml</loc>
+  <lastmod>2021-03-13T03:42:00Z</lastmod>
+ </sitemap>
+ <sitemap>
   <loc>https://excellentcause.org/galleries/rss.xml</loc>
-  <lastmod>2021-03-13T03:21:00Z</lastmod>
+  <lastmod>2021-03-13T03:42:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://excellentcause.org/rss.xml</loc>
-  <lastmod>2021-03-13T03:21:00Z</lastmod>
+  <lastmod>2021-03-13T03:42:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://excellentcause.org/sitemap.xml</loc>
-  <lastmod>2021-03-13T03:21:00Z</lastmod>
+  <lastmod>2021-03-13T03:42:00Z</lastmod>
  </sitemap>
 </sitemapindex>
