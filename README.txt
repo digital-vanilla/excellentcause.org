@@ -1,0 +1,1 @@
+This is the base for excellentcause.org blog site.
